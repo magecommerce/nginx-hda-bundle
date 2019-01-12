@@ -1,0 +1,75 @@
+[submodule "debian/extra/ngx_devel_kit"]
+	path = debian/extra/ngx_devel_kit
+	url = https://github.com/simplresty/ngx_devel_kit.git
+[submodule "debian/extra/lua-nginx-module"]
+	path = debian/extra/lua-nginx-module
+	url = https://github.com/openresty/lua-nginx-module.git
+[submodule "debian/extra/ngx_pagespeed"]
+	path = debian/extra/ngx_pagespeed
+	url = https://github.com/apache/incubator-pagespeed-ngx.git
+[submodule "debian/extra/echo-nginx-module"]
+	path = debian/extra/echo-nginx-module
+	url = https://github.com/openresty/echo-nginx-module.git
+[submodule "debian/extra/ngx_brotli"]
+	path = debian/extra/ngx_brotli
+	url = https://github.com/google/ngx_brotli.git
+[submodule "debian/extra/ngx-fancyindex"]
+	path = debian/extra/ngx-fancyindex
+	url = https://github.com/aperezdc/ngx-fancyindex.git
+[submodule "debian/extra/rds-json-nginx-module"]
+	path = debian/extra/rds-json-nginx-module
+	url = https://github.com/openresty/rds-json-nginx-module.git
+[submodule "debian/extra/testcookie-nginx-module"]
+	path = debian/extra/testcookie-nginx-module
+	url = https://github.com/kyprizel/testcookie-nginx-module.git
+[submodule "debian/extra/nginx-length-hiding-filter-module"]
+	path = debian/extra/nginx-length-hiding-filter-module
+	url = https://github.com/nulab/nginx-length-hiding-filter-module.git
+[submodule "debian/extra/nchan"]
+	path = debian/extra/nchan
+	url = https://github.com/slact/nchan.git
+[submodule "debian/extra/naxsi"]
+	path = debian/extra/naxsi
+	url = https://github.com/nbs-system/naxsi.git
+[submodule "debian/extra/headers-more-nginx-module"]
+	path = debian/extra/headers-more-nginx-module
+	url = https://github.com/openresty/headers-more-nginx-module.git
+[submodule "debian/extra/graphite-nginx-module"]
+	path = debian/extra/graphite-nginx-module
+	url = https://github.com/mailru/graphite-nginx-module.git
+[submodule "debian/extra/Session-Binding-Proxy"]
+	path = debian/extra/Session-Binding-Proxy
+	url = https://github.com/wburgers/Session-Binding-Proxy.git
+[submodule "debian/extra/nginx-ct"]
+	path = debian/extra/nginx-ct
+	url = https://github.com/grahamedgecombe/nginx-ct.git
+[submodule "debian/extra/nginx-module-stream-sts"]
+	path = debian/extra/nginx-module-stream-sts
+	url = https://github.com/vozlt/nginx-module-stream-sts.git
+[submodule "debian/extra/njs"]
+	path = debian/extra/njs
+	url = https://github.com/nginx/njs.git
+[submodule "debian/extra/nginx-ts-module"]
+	path = debian/extra/nginx-ts-module
+	url = https://github.com/arut/nginx-ts-module.git
+[submodule "debian/extra/ngx_cache_purge"]
+	path = debian/extra/ngx_cache_purge
+	url = https://github.com/nginx-modules/ngx_cache_purge.git
+[submodule "debian/extra/nginx-upload-progress-module"]
+	path = debian/extra/nginx-upload-progress-module
+	url = https://github.com/masterzen/nginx-upload-progress-module.git
+[submodule "debian/extra/nginx-module-vts"]
+	path = debian/extra/nginx-module-vts
+	url = https://github.com/vozlt/nginx-module-vts.git
+[submodule "debian/extra/nginx-module-sts"]
+	path = debian/extra/nginx-module-sts
+	url = https://github.com/vozlt/nginx-module-sts.git
+[submodule "debian/extra/nginx-rtmp-module"]
+	path = debian/extra/nginx-rtmp-module
+	url = https://github.com/sergey-dryabzhinsky/nginx-rtmp-module.git
+[submodule "debian/extra/ngx_http_auth_pam_module"]
+	path = debian/extra/ngx_http_auth_pam_module
+	url = https://github.com/sto/ngx_http_auth_pam_module.git
+[submodule "debian/extra/ngx_http_substitutions_filter_module"]
+	path = debian/extra/ngx_http_substitutions_filter_module
+	url = https://github.com/cryptofuture/ngx_http_substitutions_filter_module.git
